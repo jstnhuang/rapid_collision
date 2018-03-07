@@ -5,6 +5,7 @@
 #include "geometry_msgs/Vector3.h"
 #include "hcr_common_markers/six_dof_controls.h"
 #include "interactive_markers/interactive_marker_server.h"
+#include "ros/ros.h"
 #include "visualization_msgs/Marker.h"
 
 #include "rapid_collision/collision_checks.h"
